@@ -11,8 +11,7 @@ We provide four example in `Cases` folder:
   * Residential Case study(`ResidentialCase`) 
   * Multienergy system case study(`MultienergyCase`) 
   * Electricity market game case study (`GameCase`) For more information about the electricity market case study, you can reference the [Msc thesis](https://repository.tudelft.nl/islandora/object/uuid:58029e39-5541-4a17-90cd-cc487383beec?collection=education), and 
-  * Distribution voltage control case study (`DNcontrolCase`) .
-
+  * Distribution voltage control case study (`DNcontrolCase`). 
 
 The `config.xml` file is used to define the models in the case and where to 
 run the model. 
